@@ -16,8 +16,14 @@ The Google Pay Clone project aims to replicate the user interface and basic func
 - **Offers**: Discover and avail of exclusive offers and rewards from partner merchants.
 
 ## Screenshots
+![Screenshot 2024-09-06 142213](https://github.com/user-attachments/assets/db51bc06-3ad5-4723-bca7-c8230067609a)
+
+![Screenshot 2024-09-06 142243](https://github.com/user-attachments/assets/b6dc7dd7-8cdb-48f8-8788-82e01a259980)
+
+![Screenshot 2024-09-06 142303](https://github.com/user-attachments/assets/922ccaab-216a-4007-9bd8-0de31c513464)
 
 
+![Screenshot 2024-09-06 142320](https://github.com/user-attachments/assets/9a57c96a-37be-4158-a045-65482a159627)
 
 ## Installation
 
